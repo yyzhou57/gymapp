@@ -2,12 +2,12 @@
 A basic app to track your workouts, weight, diet, and much more!
 
 ## Features (planned)
- - Log in page
- - Track body weight and PRS
+ - Login Page
+ - Track Body Weight and PRs
  - Visual Progress Charts
- - Log macros 
+ - Log Macros 
 
-## Tech used
+## Tech Used
 - HTML
 - CSS
 - JavaScript
